@@ -6,6 +6,9 @@ import pandas as pd
 
 from sklearn.preprocessing import StandardScaler
 
+
+
+
 from src.pipeline import predict_pipeline
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
